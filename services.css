@@ -14,19 +14,23 @@
 }
 
 .service-text{
+    width: 100%;
     display: flex;
     margin: 0 0 20px 0;
     background-color: rgba(255, 255, 255, 0.8);
     background-color: #80DEEA;
-    color: #fff;
+    color: rgb(58, 124, 190);
+    flex-wrap: wrap;
 }
 
 .service-text-right{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-   padding-left: 100px;
+   padding-left: 10px;
 }
+
+
 
 .service-text-right h1, .service-text-left h1{
     font-size: 40px;
@@ -37,12 +41,12 @@
 
 .service-text-right p, .service-text-left p{
     padding-top: 20px;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 500;
 }
 
 span{
-    color: #fff;
+    color: #000;
     font-weight: 700;
     font-size: 20px;
     padding-right: 5px;
@@ -50,11 +54,12 @@ span{
 
 
 
-.service-text-left{
+.service-text-left {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     padding-left: 25px;
+    padding-right: 80px;
 }
 
 
