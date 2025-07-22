@@ -1,0 +1,32 @@
+.section{
+    display: flex;
+ justify-content: right;
+ align-items: right;
+}
+
+.hero-text{
+align-items: center;
+padding-left: 90px;
+
+}
+.hero-text h1{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #0288D1;
+}
+.hero-text h1 span{
+    color: #11a6eb;
+}
+
+.hero-text p{
+    color: #070707;
+     font-weight: 600;
+    font-size: 1rem;
+}
+
+.hero-img{
+    background-image: -moz-linear-gradient();
+    transition: background-color 0.3s ease;
+}
