@@ -1,5 +1,6 @@
 .about-hero {
-  background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.125)), url("image/image.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.125)),
+    url("image/image.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -59,15 +60,26 @@
   font-size: 1rem;
 }
 
-.btn a{
-    text-decoration:none;
-    color: white;
-    padding: 10px 20px;
-    background-color: #0288D1;
-    border-radius: 5px;
-    font-weight: 600;
-    transition: background-color 0.3s ease;
+.btn a {
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px;
+  background-color: #29b6f6;
+  border-radius: 5px;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
 }
-.btn a:hover{
-    background-color: #28B6F6;
+
+.btn .colour-a {
+  color: #fcfcfc;
+  background-color: #0288d1;
+}
+
+.btn .colour-b {
+  color: white;
+  background-color: #0ab1ff;
+}
+
+.btn a:hover {
+  background-color: #28b6f6;
 }
