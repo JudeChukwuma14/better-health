@@ -18,7 +18,7 @@
     margin: 0 0 20px 0;
     background-color: rgba(255, 255, 255, 0.8);
     background-color: #80DEEA;
-    color: #fff;
+    color: rgb(58, 124, 190);
 }
 
 .service-text-right{
@@ -37,12 +37,12 @@
 
 .service-text-right p, .service-text-left p{
     padding-top: 20px;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 500;
 }
 
 span{
-    color: #fff;
+    color: #000;
     font-weight: 700;
     font-size: 20px;
     padding-right: 5px;
