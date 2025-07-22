@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e">
+    <diagram id="is3MQex9nKWhwBIrmj0b" name="Page-1">
+        <mxGraphModel dx="816" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="40" width="560" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Logo" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="45" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="All my Navlink" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="45" width="240" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Button" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="45" width="50" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
