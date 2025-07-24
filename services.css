@@ -4,11 +4,15 @@
     box-sizing: border-box;
 }
 
+.services{
+    background-color: #80DEEA;
+}
+
 .myservice{
-    background-image: url("./img/Doctors.jpeg");
+    background-image: url("./img/Surgery.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     width: 100%;
     height: 990px;
 }
