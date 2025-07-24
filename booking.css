@@ -69,3 +69,8 @@ body{
     border-radius: 10px;
 }
 
+.btn{
+    padding: 10px;
+    color: blue;
+}
+
