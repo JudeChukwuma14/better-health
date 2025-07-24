@@ -86,9 +86,11 @@
 
 .about-news {
    
-    background-color: #f0faff;
+  background-color: #f4fafd;
   align-items: center;
-  padding-left: 90px;
+  padding-left: 80px;
+ padding-top: 40px;
+ padding-bottom: 40px;
 }
 .about-news h4 {
   margin-top: 30px;
