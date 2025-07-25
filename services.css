@@ -77,4 +77,12 @@ span{
     margin-top: 30px;
 }
 
+.card{
+    box-shadow: #8b9ba7 2px 2px 1px;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
 
